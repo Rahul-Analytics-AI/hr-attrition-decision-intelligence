@@ -19,6 +19,14 @@ This system answers:
  3. How does business travel impact churn?
  4. Can salary adjustments reduce high-risk attrition?
 
+ ## 🛠 Tools & Technologies
+- Power BI
+- Advanced SQL (MySQL)
+- DAX for calculated measures
+- Data modeling
+- What-if parameter simulation
+- Advanced Excel (Data Cleaning)
+
 # Dashboard Architecture 
 
 1. Executive Overview
@@ -47,3 +55,11 @@ This system answers:
    . Interactive salary increase parameter
    . High-risk attrition reduction impact
    . Workforce retention modeling
+
+ # Data Modeling Approach 
+ 
+   1. Optimized relationships
+   2. KPI-driven DAX measures
+   3. What-If parameter modeling
+
+
