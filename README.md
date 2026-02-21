@@ -62,4 +62,9 @@ This system answers:
    2. KPI-driven DAX measures
    3. What-If parameter modeling
 
+##  Key Insights
+- Frequent business travel increases attrition probability
+- Mid-level experience group shows highest churn risk
+- Targeted salary adjustment can reduce attrition by X% (simulation-based)
+- Specific departments require immediate retention strategies
 
