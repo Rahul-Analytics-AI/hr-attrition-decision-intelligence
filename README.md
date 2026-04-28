@@ -19,7 +19,7 @@ This system answers:
  3. How does business travel impact churn?
  4. Can salary adjustments reduce high-risk attrition?
 
- ## 🛠 Tools & Technologies
+ ## Tools & Technologies
 - Power BI
 - Advanced SQL (MySQL)
 - DAX for calculated measures
